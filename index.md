@@ -10,5 +10,6 @@ About me
 
 ### Large image
 
-![Octocat](./pictures/kevin_picture.png)
+<img align="right" src="./pictures/kevin_picture.png" />
+#![Octocat](./pictures/kevin_picture.png)
 
