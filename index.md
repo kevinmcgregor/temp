@@ -10,5 +10,5 @@ About me
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](./pictures/kevin_picture.png)
 
