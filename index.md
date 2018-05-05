@@ -10,5 +10,5 @@ About me
 
 ### Large image
 
-![Branching](./pictures/kevin_picture.png)
+![Octocat](./pictures/kevin_picture.png)
 
