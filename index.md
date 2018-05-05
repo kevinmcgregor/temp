@@ -2,15 +2,9 @@
 layout: default
 ---
 
-# Home
-
-About me
-
-[CV](./files/cv_website.pdf).
-
-### Large image
+### About me
 
 <img align="right" src="./pictures/kevin_picture.png" />
 
-I am a PhD candidate in biostatistics at [McGill Universtiy](https://www.mcgill.ca/epi-biostat-occh/academic-programs/grad/biostatistics).
+I am a PhD candidate in biostatistics at [McGill Universtiy](https://www.mcgill.ca/epi-biostat-occh/academic-programs/grad/biostatistics) under the supervision of [Celia Greenwood](https://www.mcgill.ca/statisticalgenetics/people) and [Aurélie Labbe](http://www.hec.ca/en/profs/aurelie.labbe.html).
 
